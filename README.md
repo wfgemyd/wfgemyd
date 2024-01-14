@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🎨 Electrical engineer and B.Sc. computing student who loves C++, Unity, and Clojure.<br><br>🎁 Embedded systems fan. Help me get better, kindly!<br><br>🔥 I enjoy making my goals a reality.<br><br>🏢 Seeking a new specialized employment to further my knowledge.
+<br>🎨 Electrical engineer and B.Sc. computing student who loves C++, C, Python, Unreal Engine, data sience, and 3D design.<br><br>🎁 Embedded systems fan. Help me get better, kindly!<br><br>🔥 I enjoy making my goals a reality.<br><br>🏢 Seeking a new specialized employment to further my knowledge.
 
 
 ## 🌐 Socials:
